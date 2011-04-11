@@ -1,0 +1,14 @@
+Requirements
+------------
+
+1. Redisko (https://github.com/Zedzed/Redisko)
+
+
+Why Redis?
+* It is fast advanced key-value store
+
+
+ Example
+------------
+$short_url = Tinyurl::gen_url('http://www.google.com');
+>> http://www.domain.com/t/oig7kn 
